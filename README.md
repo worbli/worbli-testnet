@@ -1,7 +1,7 @@
 # worbli-testnet Instructions
 1. Fork this repository
 2. Add producer-configs/bp-name.ini to the repository (see worbli.ini as an example)
-3. Please make sure to provide 3 unique producer names 
+3. Please make sure to provide 3 unique producer names. (See worbli.ini for an example)
 4. Create a pull request to add your BP configuration to the worbli testnet
 
 # Notes
