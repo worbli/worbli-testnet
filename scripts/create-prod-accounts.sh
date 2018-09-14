@@ -16,11 +16,13 @@ worblim system newaccount eosio --transfer beyondbtc1 EOS87H8Y1hjZnAaqQa4iCFXVfD
 
 worblim system newaccount eosio --transfer eosiodetroit EOS5M9AkrsHoQHUwf7oiu5q5drjgD7WMjTtmJX4Jd13bo9W7Z8cBo --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
-worblim system newaccount eosio --transfer eosnewyorkio EOS55qQ1GRvFqn75CyNhnQRP7ZFwu3xBY4Zu5ryawY1tm7Q3UwNYH --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
-
+# Think I have the wrong key, tyr to update
 worblim system newaccount eosio --transfer eosnewyorkio EOS55qQ1GRvFqn75CyNhnQRP7ZFwu3xBY4Zu5ryawY1tm7Q3UwNYH --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosmetal EOS5HpZJiBFvDFtXB84bmWQW131DmULfNnojEctADeFwYjBDQV3pk --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosiosg11111 EOS6hjg1JPpgSWY5pjEGtt1EWyvBmpgF8B5RfwdvV9kT8XgthqBh6 --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
+worblim system newaccount eosio --transfer eosdublin1 EOS5XZPW2sjaTVKe3PABJpCvmaYbpTUqc2XsenYKJbbMX8uYLfZKi --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worblim system newaccount eosio --transfer eoscannonbp1 EOS5W8gr1hiUqxEoLCYrmEjkaYzEU76WXYGdRHPUUdYMJgYh87yxD --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
