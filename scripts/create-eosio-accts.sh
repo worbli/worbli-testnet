@@ -1,0 +1,9 @@
+#!/bin/sh
+
+worbli create account eosio eosio.ppay EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.msig EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.names EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.saving EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.stake EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.token EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
+worbli create account eosio eosio.usage EOS65mLp75uTt5Jg9VmDdHekKA7diuhHGZpSGZiHG86CFkQYYKta6
