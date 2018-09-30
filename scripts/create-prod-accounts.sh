@@ -31,3 +31,4 @@ worblim system newaccount eosio --transfer genereosbp1 EOS61fUGFyeW5ZdmemMeTfkcn
 
 worblim system newaccount eosio --transfer eosriobprod1 EOS6J3pfECXLqXGtch3MjwhS5yLp9Ea7VehhSR49RQwVx4qBxuZQY --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
+worblim system newaccount eosio --transfer argentinaeos EOS6GGYV5JYWiwdhpppkvc3kgDttpEcaG5YiEbmjxdyC5324jtGsb --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
