@@ -1,0 +1,2 @@
+ls -al producer-configs/*.ini | wc -l
+fgrep peer-key config.ini | wc -l

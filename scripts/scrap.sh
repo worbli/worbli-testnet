@@ -1,1 +1,0 @@
-cleosm system newaccount --stake-net "20.0000 EOS" --stake-cpu "50.0000 EOS" --buy-ram-kbytes 200 worblieosbp1 worbliworbli EOS6Cbn8oENoQtdze7tzwL5C14U2Wf9cd5FKJGcm9mjsAnn9wRVaV EOS7HSqAPzS9VfQ7Ycxqe39fRZUMn9CCBiWJuSqrzR8HtyHCoPtJN 
