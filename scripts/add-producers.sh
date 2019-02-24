@@ -29,4 +29,8 @@ worbli  push action eosio addproducer "{\"producer\":\"gravitypool1\"}" -p eosio
 worbli  push action eosio addproducer "{\"producer\":\"hkeostestbp1\"}" -p eosio
 worbli  push action eosio addproducer "{\"producer\":\"infinityblk1\"}" -p eosio
 worbli  push action eosio addproducer "{\"producer\":\"octagonlabs\"}" -p eosio
-
+worbli  push action eosio addproducer "{\"producer\":\"eosyskoreab1\"}" -p worbli.admin
+worbli  push action eosio addproducer "{\"producer\":\"eosyskoreab2\"}" -p worbli.admin
+worbli  push action eosio addproducer "{\"producer\":\"eosyskoreab3\"}" -p worbli.admin
+worbli  push action eosio addproducer "{\"producer\":\"atticlabwrb1\"}" -p worbli.admin
+worblim  push action eosio addproducer "{\"producer\":\"tokenika4wbl\"}" -p worbli.admin

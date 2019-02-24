@@ -56,3 +56,14 @@ worbli system newaccount eosio --transfer infinityblk1 EOS7NVEUk8CqT9nKefN5ygiAu
 
 worbli system newaccount eosio --transfer octagonlabs EOS8QSUwQM99Lsa1hMnUmAK3GBsSZitXHUZ6r93LMEgAThmkymTSG --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
+worbli system newaccount eosio --transfer eosyskoreab1 EOS7MYCnYD3tWdW8Capmp77ALVJpf2CNck7ccmTeyNmRbKoJdm1CD --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worbli system newaccount eosio --transfer eosyskoreab2 EOS7MYCnYD3tWdW8Capmp77ALVJpf2CNck7ccmTeyNmRbKoJdm1CD --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worbli system newaccount eosio --transfer eosyskoreab2 EOS7MYCnYD3tWdW8Capmp77ALVJpf2CNck7ccmTeyNmRbKoJdm1CD --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worbli system newaccount eosio --transfer eosyskoreab2 EOS7MYCnYD3tWdW8Capmp77ALVJpf2CNck7ccmTeyNmRbKoJdm1CD --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worbli system newaccount eosio --transfer atticlabwrb1 EOS7XbhJAJMU6V8btYGybSJuVV1uQYNidKR1GDHavuDoT7koN2ZB5 --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worblim system newaccount worbli.admin --transfer tokenika4wbl EOS6s7dZLRnn7jRUYfbGzP8mVcx9JQZsSz5sfEstG5zCpyj5mqx6V EOS61PMHwT1XCCPfNsjtZNB1WHfM2k3EMbqStbJRtja8XxtTDRf4L --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
