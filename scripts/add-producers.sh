@@ -34,3 +34,4 @@ worbli  push action eosio addproducer "{\"producer\":\"eosyskoreab2\"}" -p worbl
 worbli  push action eosio addproducer "{\"producer\":\"eosyskoreab3\"}" -p worbli.admin
 worbli  push action eosio addproducer "{\"producer\":\"atticlabwrb1\"}" -p worbli.admin
 worblim  push action eosio addproducer "{\"producer\":\"tokenika4wbl\"}" -p worbli.admin
+worblim  push action eosio addproducer "{\"producer\":\"buildteam\"}" -p worbli.admin

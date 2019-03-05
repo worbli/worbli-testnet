@@ -67,3 +67,5 @@ worbli system newaccount eosio --transfer eosyskoreab2 EOS7MYCnYD3tWdW8Capmp77AL
 worbli system newaccount eosio --transfer atticlabwrb1 EOS7XbhJAJMU6V8btYGybSJuVV1uQYNidKR1GDHavuDoT7koN2ZB5 --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount worbli.admin --transfer tokenika4wbl EOS6s7dZLRnn7jRUYfbGzP8mVcx9JQZsSz5sfEstG5zCpyj5mqx6V EOS61PMHwT1XCCPfNsjtZNB1WHfM2k3EMbqStbJRtja8XxtTDRf4L --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
+
+worblim system newaccount worbli.admin --transfer buildteam EOS8MHtrDWLv5W8dWLwdEVn3Fb3UYH7uGqBCpc6PKTHTm2JysCk8w EOS6xwp3wcr7w4FUikhVpiZu7dkVw4A5qCxyeMP8uYbNoBW7EtGuJ --stake-net "5000.0000 WBI" --stake-cpu "100000.0000 WBI" --buy-ram-kbytes 4
